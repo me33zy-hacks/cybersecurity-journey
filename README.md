@@ -22,10 +22,5 @@ Documenting my path from cybersecurity student to penetration tester — daily n
 - [ ] Active Directory & privilege escalation
 - [ ] First certification
 
-## 🔗 Find me
-- TryHackMe:
-- HackTheBox:
-- LinkedIn:
-
 ---
-*Started: [date]. Updated (almost) daily — check the commit history.*
+*Started: [26/09]. Updated (almost) daily — check the commit history.*
