@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VM / lab files — too large for git, keep these local only
+*.ova
+*.vmdk
+*.vdi
+*.iso
+*.qcow2
+
+# Editor folders
+.vscode/
+.idea/
+
+# Anything sensitive — never commit these
+credentials.txt
+*.pem
+*.key
+secrets/
+
+# Reminder: never commit flags/solutions for CTFs or labs that are still active/live
