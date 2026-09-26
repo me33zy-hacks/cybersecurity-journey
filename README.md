@@ -3,7 +3,7 @@
 Documenting my path from cybersecurity student to penetration tester — daily notes, lab write-ups, cheat sheets, and scripts, updated as I go.
 
 ## 🎯 Current focus
-> Update this line as you move through your roadmap — e.g. "Month 1: Linux & networking fundamentals"
+ "Phase 1: Linux & networking fundamentals & python Learning "
 
 ## 📁 What's in here
 
